@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pEIxFn3M7LLtmgYlr/xLORAqF5aCgIz5ZmYRjrWPJuphYy0jvajRkmMnn9XaygZCj58Hkqi70672xx5OIM95hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\George\\source\\repos\\Shootter\\Shootter\\Shootter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\George\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\George\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
